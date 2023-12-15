@@ -42,6 +42,10 @@
 }
 
 /* Main */
+*{
+    box-sizing: border-box;
+}
+
 .main-section > h1 {
     color: blue;
 }
